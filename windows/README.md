@@ -1,5 +1,3 @@
----
-
 ## ⚠️ Disclaimer Legal
 
 Este repositorio ha sido creado con fines **educativos y de documentación técnica**. No contiene software de Microsoft ni distribuye archivos propietarios del sistema operativo Windows.
